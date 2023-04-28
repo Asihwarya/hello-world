@@ -1,2 +1,3 @@
 # hello-world
 a demo purpose
+This is the first repository I am creating. I am eagerly waiting to explore many things....
